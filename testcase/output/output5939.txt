@@ -1,0 +1,114 @@
+
+*************AFTER MOVE*************
+ROUND : 0 - TURN : 0
+ArrayMovingObject[count=3;capacity=5;]
+	Criminal[index=0;pos=(0,1)]
+	Sherlock[index=1;pos=(3,0);moving_rule=U]
+	Watson[index=2;pos=(4,2);moving_rule=DD]
+Sherlock HP_412 EXP_820
+Watson HP_368 EXP_257
+SherlockBag : Bag[count=0;]
+WatsonBag : Bag[count=0;]
+
+*************AFTER MOVE*************
+ROUND : 0 - TURN : 1
+ArrayMovingObject[count=3;capacity=5;]
+	Criminal[index=0;pos=(0,1)]
+	Sherlock[index=1;pos=(2,0);moving_rule=U]
+	Watson[index=2;pos=(4,2);moving_rule=DD]
+Sherlock HP_412 EXP_820
+Watson HP_368 EXP_257
+SherlockBag : Bag[count=0;]
+WatsonBag : Bag[count=0;]
+
+*************AFTER MOVE*************
+ROUND : 0 - TURN : 2
+ArrayMovingObject[count=3;capacity=5;]
+	Criminal[index=0;pos=(0,1)]
+	Sherlock[index=1;pos=(2,0);moving_rule=U]
+	Watson[index=2;pos=(4,2);moving_rule=DD]
+Sherlock HP_412 EXP_820
+Watson HP_368 EXP_257
+SherlockBag : Bag[count=0;]
+WatsonBag : Bag[count=0;]
+
+*************AFTER MOVE*************
+ROUND : 1 - TURN : 0
+ArrayMovingObject[count=3;capacity=5;]
+	Criminal[index=0;pos=(0,0)]
+	Sherlock[index=1;pos=(2,0);moving_rule=U]
+	Watson[index=2;pos=(4,2);moving_rule=DD]
+Sherlock HP_412 EXP_820
+Watson HP_368 EXP_257
+SherlockBag : Bag[count=0;]
+WatsonBag : Bag[count=0;]
+
+*************AFTER MOVE*************
+ROUND : 1 - TURN : 1
+ArrayMovingObject[count=3;capacity=5;]
+	Criminal[index=0;pos=(0,0)]
+	Sherlock[index=1;pos=(2,0);moving_rule=U]
+	Watson[index=2;pos=(4,2);moving_rule=DD]
+Sherlock HP_412 EXP_820
+Watson HP_368 EXP_257
+SherlockBag : Bag[count=0;]
+WatsonBag : Bag[count=0;]
+
+*************AFTER MOVE*************
+ROUND : 1 - TURN : 2
+ArrayMovingObject[count=3;capacity=5;]
+	Criminal[index=0;pos=(0,0)]
+	Sherlock[index=1;pos=(2,0);moving_rule=U]
+	Watson[index=2;pos=(4,2);moving_rule=DD]
+Sherlock HP_412 EXP_820
+Watson HP_368 EXP_257
+SherlockBag : Bag[count=0;]
+WatsonBag : Bag[count=0;]
+
+*************AFTER MOVE*************
+ROUND : 2 - TURN : 0
+ArrayMovingObject[count=4;capacity=5;]
+	Criminal[index=0;pos=(0,1)]
+	Sherlock[index=1;pos=(2,0);moving_rule=U]
+	Watson[index=2;pos=(4,2);moving_rule=DD]
+	Robot[pos=(0,0);type=C;dist=]
+Sherlock HP_412 EXP_820
+Watson HP_368 EXP_257
+SherlockBag : Bag[count=0;]
+WatsonBag : Bag[count=0;]
+
+*************AFTER MOVE*************
+ROUND : 2 - TURN : 1
+ArrayMovingObject[count=4;capacity=5;]
+	Criminal[index=0;pos=(0,1)]
+	Sherlock[index=1;pos=(2,0);moving_rule=U]
+	Watson[index=2;pos=(4,2);moving_rule=DD]
+	Robot[pos=(0,0);type=C;dist=]
+Sherlock HP_412 EXP_820
+Watson HP_368 EXP_257
+SherlockBag : Bag[count=0;]
+WatsonBag : Bag[count=0;]
+
+*************AFTER MOVE*************
+ROUND : 2 - TURN : 2
+ArrayMovingObject[count=4;capacity=5;]
+	Criminal[index=0;pos=(0,1)]
+	Sherlock[index=1;pos=(2,0);moving_rule=U]
+	Watson[index=2;pos=(4,2);moving_rule=DD]
+	Robot[pos=(0,0);type=C;dist=]
+Sherlock HP_412 EXP_820
+Watson HP_368 EXP_257
+SherlockBag : Bag[count=0;]
+WatsonBag : Bag[count=0;]
+
+*************AFTER MOVE*************
+ROUND : 2 - TURN : 3
+ArrayMovingObject[count=4;capacity=5;]
+	Criminal[index=0;pos=(0,1)]
+	Sherlock[index=1;pos=(2,0);moving_rule=U]
+	Watson[index=2;pos=(4,2);moving_rule=DD]
+	Robot[pos=(0,0);type=C;dist=]
+Sherlock HP_412 EXP_820
+Watson HP_368 EXP_257
+SherlockBag : Bag[count=0;]
+WatsonBag : Bag[count=0;]

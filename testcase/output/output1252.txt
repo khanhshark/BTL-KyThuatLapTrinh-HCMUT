@@ -1,0 +1,11 @@
+
+*************AFTER MOVE*************
+ROUND : 0 - TURN : 0
+ArrayMovingObject[count=3;capacity=4;]
+	Criminal[index=0;pos=(0,1)]
+	Sherlock[index=1;pos=(0,1);moving_rule=RURRRDLD]
+	Watson[index=2;pos=(0,2);moving_rule=DRUUULR]
+Sherlock HP_223 EXP_211
+Watson HP_49 EXP_447
+SherlockBag : Bag[count=0;]
+WatsonBag : Bag[count=0;]

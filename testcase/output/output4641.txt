@@ -1,0 +1,138 @@
+
+*************AFTER MOVE*************
+ROUND : 0 - TURN : 0
+ArrayMovingObject[count=3;capacity=9;]
+	Criminal[index=0;pos=(5,1)]
+	Sherlock[index=1;pos=(0,1);moving_rule=DUD]
+	Watson[index=2;pos=(6,0);moving_rule=DLUD]
+Sherlock HP_375 EXP_325
+Watson HP_104 EXP_29
+SherlockBag : Bag[count=0;]
+WatsonBag : Bag[count=0;]
+
+*************AFTER MOVE*************
+ROUND : 0 - TURN : 1
+ArrayMovingObject[count=3;capacity=9;]
+	Criminal[index=0;pos=(5,1)]
+	Sherlock[index=1;pos=(1,1);moving_rule=DUD]
+	Watson[index=2;pos=(6,0);moving_rule=DLUD]
+Sherlock HP_375 EXP_325
+Watson HP_104 EXP_29
+SherlockBag : Bag[count=0;]
+WatsonBag : Bag[count=0;]
+
+*************AFTER MOVE*************
+ROUND : 0 - TURN : 2
+ArrayMovingObject[count=3;capacity=9;]
+	Criminal[index=0;pos=(5,1)]
+	Sherlock[index=1;pos=(1,1);moving_rule=DUD]
+	Watson[index=2;pos=(6,0);moving_rule=DLUD]
+Sherlock HP_375 EXP_325
+Watson HP_104 EXP_29
+SherlockBag : Bag[count=0;]
+WatsonBag : Bag[count=0;]
+
+*************AFTER MOVE*************
+ROUND : 1 - TURN : 0
+ArrayMovingObject[count=3;capacity=9;]
+	Criminal[index=0;pos=(4,1)]
+	Sherlock[index=1;pos=(1,1);moving_rule=DUD]
+	Watson[index=2;pos=(6,0);moving_rule=DLUD]
+Sherlock HP_375 EXP_325
+Watson HP_104 EXP_29
+SherlockBag : Bag[count=0;]
+WatsonBag : Bag[count=0;]
+
+*************AFTER MOVE*************
+ROUND : 1 - TURN : 1
+ArrayMovingObject[count=3;capacity=9;]
+	Criminal[index=0;pos=(4,1)]
+	Sherlock[index=1;pos=(0,1);moving_rule=DUD]
+	Watson[index=2;pos=(6,0);moving_rule=DLUD]
+Sherlock HP_375 EXP_325
+Watson HP_104 EXP_29
+SherlockBag : Bag[count=0;]
+WatsonBag : Bag[count=0;]
+
+*************AFTER MOVE*************
+ROUND : 1 - TURN : 2
+ArrayMovingObject[count=3;capacity=9;]
+	Criminal[index=0;pos=(4,1)]
+	Sherlock[index=1;pos=(0,1);moving_rule=DUD]
+	Watson[index=2;pos=(6,0);moving_rule=DLUD]
+Sherlock HP_375 EXP_325
+Watson HP_104 EXP_29
+SherlockBag : Bag[count=0;]
+WatsonBag : Bag[count=0;]
+
+*************AFTER MOVE*************
+ROUND : 2 - TURN : 0
+ArrayMovingObject[count=4;capacity=9;]
+	Criminal[index=0;pos=(3,1)]
+	Sherlock[index=1;pos=(0,1);moving_rule=DUD]
+	Watson[index=2;pos=(6,0);moving_rule=DLUD]
+	Robot[pos=(4,1);type=C;dist=]
+Sherlock HP_375 EXP_325
+Watson HP_104 EXP_29
+SherlockBag : Bag[count=0;]
+WatsonBag : Bag[count=0;]
+
+*************AFTER MOVE*************
+ROUND : 2 - TURN : 1
+ArrayMovingObject[count=4;capacity=9;]
+	Criminal[index=0;pos=(3,1)]
+	Sherlock[index=1;pos=(1,1);moving_rule=DUD]
+	Watson[index=2;pos=(6,0);moving_rule=DLUD]
+	Robot[pos=(4,1);type=C;dist=]
+Sherlock HP_375 EXP_325
+Watson HP_104 EXP_29
+SherlockBag : Bag[count=0;]
+WatsonBag : Bag[count=0;]
+
+*************AFTER MOVE*************
+ROUND : 2 - TURN : 2
+ArrayMovingObject[count=4;capacity=9;]
+	Criminal[index=0;pos=(3,1)]
+	Sherlock[index=1;pos=(1,1);moving_rule=DUD]
+	Watson[index=2;pos=(5,0);moving_rule=DLUD]
+	Robot[pos=(4,1);type=C;dist=]
+Sherlock HP_375 EXP_325
+Watson HP_104 EXP_29
+SherlockBag : Bag[count=0;]
+WatsonBag : Bag[count=0;]
+
+*************AFTER MOVE*************
+ROUND : 2 - TURN : 3
+ArrayMovingObject[count=4;capacity=9;]
+	Criminal[index=0;pos=(3,1)]
+	Sherlock[index=1;pos=(1,1);moving_rule=DUD]
+	Watson[index=2;pos=(5,0);moving_rule=DLUD]
+	Robot[pos=(4,1);type=C;dist=]
+Sherlock HP_375 EXP_325
+Watson HP_104 EXP_29
+SherlockBag : Bag[count=0;]
+WatsonBag : Bag[count=0;]
+
+*************AFTER MOVE*************
+ROUND : 3 - TURN : 0
+ArrayMovingObject[count=4;capacity=9;]
+	Criminal[index=0;pos=(2,1)]
+	Sherlock[index=1;pos=(1,1);moving_rule=DUD]
+	Watson[index=2;pos=(5,0);moving_rule=DLUD]
+	Robot[pos=(4,1);type=C;dist=]
+Sherlock HP_375 EXP_325
+Watson HP_104 EXP_29
+SherlockBag : Bag[count=0;]
+WatsonBag : Bag[count=0;]
+
+*************AFTER MOVE*************
+ROUND : 3 - TURN : 1
+ArrayMovingObject[count=4;capacity=9;]
+	Criminal[index=0;pos=(2,1)]
+	Sherlock[index=1;pos=(2,1);moving_rule=DUD]
+	Watson[index=2;pos=(5,0);moving_rule=DLUD]
+	Robot[pos=(4,1);type=C;dist=]
+Sherlock HP_375 EXP_325
+Watson HP_104 EXP_29
+SherlockBag : Bag[count=0;]
+WatsonBag : Bag[count=0;]
